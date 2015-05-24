@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Cloning a repository is basically just a shortcut for accomplishing the following: making a directory, changing into it, initialising it for git, adding a remote to the original repository and then pulling data from that repository.
