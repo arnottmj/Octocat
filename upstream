@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+‘Upstream’ is usually used to refer to a foreign repository. For example, if I forked a repository on Github and cloned the fork onto my computer, I might then add a remote to the original repository: I would consider that repository ‘upstream.’ I would then pull data from the upstream. I could then push any changes I make to the fork on Github and submit a pull request to perhaps have those changes merged into the original.
